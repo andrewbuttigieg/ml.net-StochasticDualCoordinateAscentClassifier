@@ -1,0 +1,11 @@
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/andrewbuttigieg/Documents/Git/mlDotNt/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
